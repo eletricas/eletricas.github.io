@@ -1,2 +1,2 @@
-# eletricas.site
+# eletricas.github.io
 GitHub Pages
